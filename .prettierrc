@@ -8,5 +8,5 @@
 	"printWidth": 80,
 	"formatOnSave": true,
 	"trailingComma": "none",
-	"jsxBracketSameLine": true
+	"jsxBracketSameLine": false
 }
